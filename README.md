@@ -1,2 +1,1 @@
-# Prepcourse-Henry
-Modulo 2 del prpcourse de henry.
+Este proyecto es una prueba para practicar con git.
